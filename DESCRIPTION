@@ -1,0 +1,15 @@
+Package: shrinkageHDlearning
+Type: Package
+Title: Lossless estimation of the individualized treatment rules under multi-site heterogeneous data
+Version: 0.1.0
+Author: Authors@R: c(person('Nan', 'Qiao', email = 'qiaonan0915@ruc.edu.cn'))
+Maintainer: The package maintainer <qiaonan0915@ruc.edu.cn>
+Description: Lossless estimation of the individualized treatment rules under multi-site heterogeneous data
+License: usethis::use_mit_license(GPL-2)
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 3.5.0),
+    dlsa
+    
+
